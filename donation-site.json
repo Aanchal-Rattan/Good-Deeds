@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "donation-site-30f93",
+  "private_key_id": "771aea5b1fe9399711310d9d2ead9b78de69d7aa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyGfcgCkZkNBvT\n9dV1oijWHjnFTacfMAKXk4TeQ6ck21gLTu6Iy2rJ24zltR9FsmYWXrz8Eu9ARydr\nBWsIBy9g+60q8JFlO/C7WSWV4V0dyv1F2PSY03S9Ct8ytvelwmjz41tLMo87OSyz\nfl4/ce8q4vv2sr2UUReq4Xrh9m9ARt6Tdz8amvSJqmLM75wo/4HmVF2Yz02GrrNl\n2TK3ofxMeXg7dWs/f2By15ykEjA5joTUHH09TQ4lBybSTNyLHdfpnaDQw65Snzu8\nTcGNSBE6svhSVaB258bUPd9cLX6ejiaGvx3NI4p6DO2hBp2IV1SRFBgPr95H6g0R\ne2Z7X6TvAgMBAAECggEAFzLTojxEY/v3nfnZBpwLNqy0OLN/L8xIoibIeU0VofLi\nOoLbBj182PM8nJUlkCYHLyXC9xCeUmCSTVnk0aRh8v+FVGEGh0mx9y1K/IVg5CcT\nK3xxi9CLVa5rWUdE5bX3hsEYHKjmyD+Px4ePzjLQhOURDdbFY+LWMt9w6qr3XcdF\nshim/X4BXVH6n9hR1wNThr7K1zRtR2K4tVQEM5oK4Lsmp4362XqCPQ+NmjRU4yji\nDwOErkiuoCddlk8pOtfeLSlhM7ICnYN//16gqQiojR/w3QIeuYWWpmJNkV6Auokl\nzO7h+Str6UG6TNI2+TTeaAU8+SV8BnBx+DU/tacdAQKBgQDiDWmPi79jUYHsoeVg\n380OabaWdedueoJoh1RKdOEr6d1baxrcHkAEijcRvCAk7/6YT4beGemhie2Nphdt\nvBbAM6gQyDIO2H5wIlEpb59mbSMqQTo9/4fpDLfff/8kWS/AeOTeCxS6ZMxsl5Uo\n4qIBRnZU59k4YzfTANN1WxD7AQKBgQDJskqmisOroTqPwQBBNrgM5Ih/ibrEvOmU\nU1GvdVJ0oEQdF7VO7MlFdb759kwRY+3nCHVNg7Olrfpuw2ALvYa5g80Yw/aC3fFO\nvytNDIK6jbsMnDIjoqdt+1DM9rvtWajw3sO3GOD48ABqh12y+0Vy0CcBr5WY1eHx\nHM9ZiRBP7wKBgQCCfOmNkkb1hwxv03i8dhRBmKZsrjzdGl0DB/ORU2zT05kS9322\nyMN9m2d0llsb12no9CdPODgUJrF5TgJCNwwPAQKoRVgYF8LM6hJdz/B8yM0+zA5Z\n0ZLb5ZqSqqlWiyE0gtTilBTwD9WtbccNpd2MzObr1jYfBa8o31YxbVMdAQKBgDJf\nxSUzIwuKiQW+PkILWIxfx3eS/oKEbBIPfSdFNgLKxDg/45iCqwIeFkR3ryfovVIm\nWqWxbvzCJvni8en8u9k5gc/doYOtysbQGBB2P3A4Va8gk6Uyyn49dkC6ntT4v6jo\n+hiQrh9+UZxJkq1Q9FdohVV2dPZm9LczatYB1YEhAoGAcRnBgb2q7esVbDolWMdt\neq7DCfC69ukvxGoNXYpg9Zw8VN45MRjlCs492fHhaaTcPtjK7JRSAwUu+2Mt7/gE\nobu8WG6N2cTmzmQg7ycIyi746enKwWfC/xZ3e9yQkAcmA1OBxmo7rY1e8NxBRAOT\nany/CsBsLk4tj+XrCENfHw4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-j1n7v@donation-site-30f93.iam.gserviceaccount.com",
+  "client_id": "110226439195251534714",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-j1n7v%40donation-site-30f93.iam.gserviceaccount.com"
+}
